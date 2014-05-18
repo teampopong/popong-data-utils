@@ -1,0 +1,3 @@
+include LICENSE
+recursive-include popong_data_utils *
+recursive-exclude popong_data_utils *.pyc
