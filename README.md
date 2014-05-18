@@ -2,6 +2,10 @@
 
 Data utility for POPONG models
 
+## Installation
+
+    $ pip install git+https://github.com/teampopong/popong-data-utils.git
+
 ## Usage Example
 
     from popong_data_utils import connect_db, guess_person
