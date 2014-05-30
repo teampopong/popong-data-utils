@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='popong_data_utils',
-    version='0.1.1-dev',
+    version='0.1.2-dev',
     url='http://github.com/teampopong/popong-data-utils/',
     license='BSD',
     author='Cheol Kang',
